@@ -567,7 +567,7 @@ nav {
   }
 }
 
-@media (width: 300px) {
+@media (max-width: 300px) ,(min-width: 300px)  {
 
  .header__content h1 {
   font-size: 3rem;
